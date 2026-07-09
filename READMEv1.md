@@ -64,7 +64,7 @@ python password_generator.py
 Add a screenshot here showing the program running.
 
 Example:
-![alt text](image.png)
+
 ```
 Do you want to a password randomly generated? yes
 
