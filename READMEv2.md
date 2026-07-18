@@ -79,11 +79,3 @@ How many characters do you want your password to be?
 Generated Password:
 gT8@pL2!xQ7#mR5$
 ```
-
-## 🔮 Future Improvements (Version 3)
-
-* Add a password strength checker
-* Use `secrets` module for stronger security randomness
-* Add a graphical user interface (GUI)
-* Allow users to customize character requirements
-* Save generated passwords securely
